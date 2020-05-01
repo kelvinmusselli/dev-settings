@@ -1,0 +1,1 @@
+yarn add eslint eslint-config-airbnb-base eslint-config-prettier eslint-plugin-import eslint-plugin-prettier prettier
